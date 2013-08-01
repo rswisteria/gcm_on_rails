@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Represents an Android phone.
 # An Gcm::Device can have many Gcm::Notification.
 #

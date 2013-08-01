@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Gcm::Notification < Gcm::Base
   self.table_name = "gcm_notifications"
 
